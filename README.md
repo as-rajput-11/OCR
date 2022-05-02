@@ -1,7 +1,6 @@
 # OCR
-image to text
 
-
+#image to text
 
 * sudo apt-get install tesseract-ocr
 
@@ -13,3 +12,4 @@ image to text
 * pip install python-csv
 
 * imtocsv this file content image to csv using easyocr 
+
